@@ -1,0 +1,32 @@
+
+
+
+{/* <div className="navbar-btn">
+          <div className='menu-buttons d-flex text-white fs-4'>
+            <div className="open-menu menu-button px-2 pb-1 pt-0">
+              <CgMenu />
+            </div>
+            <div className="close-menu menu-button px-2 pb-1 pt-0">
+              <CgClose name='close-button'/>
+            </div>
+          </div>
+        </div> */}
+
+                        {/* <div className='d-flex align-items-center gap-10'>
+                  <BsGift className='fs-2'/>
+                  <div>
+                    <h6 className='mb-0'>Daily Gifts</h6>
+                  </div>
+                </div> */}
+
+                {/* <div className="blog-card">
+          <div className="image">
+            <img src="images/Blog/blog-1.jpg" alt="blog" />
+          </div>
+          <div className="blog-content">
+            <p className="date">1 Nov, 2023</p>
+            <h5 className="title">This is Latest blog</h5>
+            <p className="blog">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis quis rem necessitatibus? Consectetur nam cumque quibusdam modi sed non aliquam.</p>
+            <Link to="/" className="button">read more</Link>
+          </div>
+        </div> */}
